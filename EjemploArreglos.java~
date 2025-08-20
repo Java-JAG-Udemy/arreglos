@@ -46,7 +46,6 @@ public static void main(String[] args) {
     numeros[3] = 35;
     // numeros[4] = 5;
 
-    // Ordena de menor a mayor
     Arrays.sort(numeros);
 
     int i = numeros[0];
